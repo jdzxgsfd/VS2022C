@@ -1,6 +1,6 @@
 name:
 vs_Community.exe
 link:
-https://aka.ms/vs/17/release/vs_community.exe
+https://aka.ms/vs/17/release/vs_Community.exe
 zipBaseName:
 VS2022Community.
